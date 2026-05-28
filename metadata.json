@@ -1,0 +1,6 @@
+{
+  "name": "DailyOS AI",
+  "description": "An offline-first personal life command center with task management, notes, habits, expenses, focus, active recall study, daily reviews, and offline rule-based AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
